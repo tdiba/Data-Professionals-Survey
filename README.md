@@ -20,6 +20,10 @@ The objective was to clean and transform the raw survey dataset, perform calcula
 
 
 
+<img width="1573" height="773" alt="Screenshot 2026-03-01 220224" src="https://github.com/user-attachments/assets/eb80cf37-4c4d-4b33-bb83-866aa6c9d84d" />
+
+
+
 ### Project Objectives
 - Analyze salary trends across roles and regions
 - Compare job satisfaction levels
